@@ -3,4 +3,4 @@
 I am a beginner developer. So, bear that in mind.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatRandomFuckingDev)](https://github.com/ThatRandomFuckingDev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatRandomFuckingDev&langs_count=8)
